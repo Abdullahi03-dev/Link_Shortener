@@ -185,7 +185,7 @@ header .div a{
 	}
 	.banner_text,.banner_img{
 	text-align: center;
- margin:-2rem 0;
+ margin:0 0;
 }
 .banner_text h1{
 	font-size: 3.5rem;
