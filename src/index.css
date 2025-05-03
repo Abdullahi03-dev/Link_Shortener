@@ -184,7 +184,7 @@ header .div a{
 	}
 	.banner_text,.banner_img{
 	text-align: center;
- margin:0;
+ margin:-2rem 0;
 }
 .banner_text h1{
 	font-size: 3.5rem;
@@ -450,6 +450,12 @@ header img{
 		left: 36%;
 		top: -15px;
 	}
+.cards_sec .card h1{
+	font-size: .90rem;
+}
+.cards_sec .card p{
+	font-size: 14px;
+}
 }
 
 .lastdiv{
