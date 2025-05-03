@@ -178,6 +178,7 @@ header .div a{
 		/* flex-direction: column-reverse; */
 		flex-wrap: wrap-reverse;
 		z-index: 10000;
+  height:95vh;
 	}
 	.header_wrapper{
 		display: none;
