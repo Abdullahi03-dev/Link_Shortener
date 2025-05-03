@@ -178,14 +178,15 @@ header .div a{
 		/* flex-direction: column-reverse; */
 		flex-wrap: wrap-reverse;
 		z-index: 10000;
-  height:95vh;
+  height:100vh;
 	}
 	.header_wrapper{
 		display: none;
 	}
 	.banner_text,.banner_img{
 	text-align: center;
- margin:0 0;
+ margin:0;
+margin-bottom:1rem;
 }
 .banner_text h1{
 	font-size: 3.5rem;
