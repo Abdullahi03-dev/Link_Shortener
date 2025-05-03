@@ -5,7 +5,9 @@ import Lastdiv from './Lastdiv.jsx'
 
 
 const Cards=()=>{
-    return (<>
+    return (
+    <>
+ <section className='section'>
     <div className='liner'></div>
         <div className='cards_sec'>
             <div className='card'>
@@ -29,6 +31,7 @@ const Cards=()=>{
                     mean a thing.Branded links help instil confidence in your content</p>
             </div>
         </div>
+        </section>
         <Lastdiv/>
     </>)
 }
