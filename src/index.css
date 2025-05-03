@@ -177,14 +177,13 @@ header .div a{
 		padding-top: 12.7rem;
 		/* flex-direction: column-reverse; */
 		flex-wrap: wrap-reverse;
-
 		z-index: 10000;
 	}
 	.header_wrapper{
 		display: none;
 	}
 	.banner_text,.banner_img{
-	margin: 1.4em 0;
+	margin: 6.4em 0;
 	text-align: center;
 }
 .banner_text h1{
@@ -425,6 +424,7 @@ header img{
 		font-size: 1.5rem;
 	}
 	.features p{
+   width:300px;
 		font-size: 14px;
 	}
 	.liner{
