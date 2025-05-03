@@ -74,7 +74,8 @@ header .div a{
 		padding-top: 15px;
 		position: fixed;
 		top: 85px;
-		left: 2.9em;
+		left: 50%;
+		transform: translateX(-50%);
 		margin: 0 auto;
 		transition: .5s;
 		z-index: 99999999;
@@ -337,9 +338,9 @@ header img{
 	.each_result2 h3{
 		color: #24b3b3;
 	}
-	.each_result1 img{
+	/* .each_result1 img{
 		display: none;
-	}
+	} */
 	.each_result{
 		margin-bottom: 10px;
 		width: 75%;
